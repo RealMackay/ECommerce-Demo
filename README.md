@@ -1,4 +1,3 @@
 # ECommerce-Demo
 
-Built with:
-React.JS
+Frontend built with React.JS
